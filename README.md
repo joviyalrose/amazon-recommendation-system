@@ -13,8 +13,6 @@ E-commerce platforms rely heavily on recommendation systems to improve user enga
 ## Dataset
 - **Source**: Amazon Reviews Dataset (Electronics category)
 - **Provider**: UC San Diego (Julian McAuley)
-- The dataset contains user IDs, product IDs, ratings, and timestamps.
-- Due to size constraints, the dataset is **not included** in this repository.
 
 Dataset reference:  
 https://nijianmo.github.io/amazon/index.html
